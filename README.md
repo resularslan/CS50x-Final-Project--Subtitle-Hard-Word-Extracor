@@ -1,5 +1,5 @@
 # Subtitles Hard Word Extractor
-#### Video Demo:  <URL HERE>
+#### Video Demo:  https://www.youtube.com/watch?v=ozCD7tsdUb8&t=9s
 #### Description: 
 Subtitles hard word extractor is a web-based application using Python, Flask, HTML, CSS and JavaScript. 
 It is a free website for users to upload their subtitles and learn hard words from it. 
